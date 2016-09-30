@@ -133,12 +133,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://zoozlerdev.us/images/ph%20persp%20site%20inspection375x281.png</loc>
-    <lastmod>2016-09-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://zoozlerdev.us/images/web%20phone%20menu%20angle.png</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -235,6 +229,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://zoozlerdev.us/images/web%20mac%20dashboard.png</loc>
+    <lastmod>2016-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://zoozlerdev.us/images/pasted-svg-111571x2198.svg</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -242,12 +242,6 @@
   </url>
   <url>
     <loc>http://zoozlerdev.us/images/heart.png</loc>
-    <lastmod>2016-09-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://zoozlerdev.us/images/pasted-svg-22599x222.svg</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -415,6 +409,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://zoozlerdev.us/images/ph%20persp%20site%20inspection313x235.png</loc>
+    <lastmod>2016-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://zoozlerdev.us/images/web%20phone%20view%20image_markup.png</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -451,7 +451,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://zoozlerdev.us/images/web%20mac%20dashboard.png</loc>
+    <loc>http://zoozlerdev.us/images/pasted-svg-22599x22.svg</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -463,7 +463,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://zoozlerdev.us/images/pasted-svg-22599x22.svg</loc>
+    <loc>http://zoozlerdev.us/images/pasted-svg-22599x222.svg</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

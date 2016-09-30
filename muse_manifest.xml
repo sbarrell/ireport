@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="zoozlerdev.us" resolutions="1x" timestamp="1475262691084">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="zoozlerdev.us" resolutions="1x" timestamp="1475263118184">
   <folder name="css">
     <file name="site_global.css" crc="3807529963"/>
     <file name="master_a-master.css" crc="428893107" ref="professional:what-you-get:enterprise:index:privacy-policy:test-drive:pricing:what-we-do:basic"/>
@@ -115,7 +115,6 @@
     <file name="pasted svg 224385x354_poster_.png" crc="4184524623" ref="phone>what-we-do:what-we-do"/>
     <file name="web mac dashboard right349x220.png" crc="511754023" seo="true" ref="phone>what-we-do"/>
     <file name="web phone menu angle left.png" crc="3965274963" seo="true" ref="phone>what-we-do:what-we-do"/>
-    <file name="ph persp site inspection375x281.png" crc="3901844302" seo="true" ref="phone>what-you-get"/>
     <file name="icons-05.png" crc="3896272346" ref="phone>what-you-get:tablet>what-you-get:what-you-get"/>
     <file name="icons-03.png" crc="3788947464" ref="phone>what-you-get:tablet>what-you-get:what-you-get"/>
     <file name="icons-04.png" crc="3880525903" ref="phone>what-you-get:tablet>what-you-get:what-you-get"/>
@@ -261,6 +260,7 @@
     <file name="web phone menu angle left-crop-u24185.png" crc="457779227" ref="tablet>what-we-do"/>
     <file name="takephotos-crop-u28986.png" crc="393678990" ref="tablet>what-you-get"/>
     <file name="web mac dashboard718x417.png" crc="4098868498" seo="true" ref="tablet>what-you-get"/>
+    <file name="ph persp site inspection313x235.png" crc="3981241907" seo="true" ref="phone>what-you-get"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -309,8 +309,8 @@
       <file name="iefonts_professional.css" crc="155457731" ref="phone>professional"/>
       <file name="index.css" crc="80262364" ref="phone>index"/>
       <file name="iefonts_index.css" crc="253873074" ref="phone>index"/>
-      <file name="what-you-get.css" crc="4180055824" ref="phone>what-you-get"/>
-      <file name="iefonts_what-you-get.css" crc="4033436427" ref="phone>what-you-get"/>
+      <file name="what-you-get.css" crc="294864507" ref="phone>what-you-get"/>
+      <file name="iefonts_what-you-get.css" crc="187502635" ref="phone>what-you-get"/>
       <file name="what-we-do.css" crc="30319346" ref="phone>what-we-do"/>
       <file name="iefonts_what-we-do.css" crc="311102915" ref="phone>what-we-do"/>
       <file name="basic.css" crc="98804725" ref="phone>basic"/>
@@ -318,7 +318,7 @@
     </folder>
     <file name="index.html" crc="4285096695" seo="true" mt="1475259285066" redirect="true"/>
     <file name="what-we-do.html" crc="494045419" seo="true" mt="1475259693475" redirect="true"/>
-    <file name="what-you-get.html" crc="411692622" seo="true" mt="1475262394854" redirect="true"/>
+    <file name="what-you-get.html" crc="3977270086" seo="true" mt="1475263086181" redirect="true"/>
     <file name="pricing.html" crc="240909552" seo="true" mt="1475259285066" redirect="true"/>
     <file name="basic.html" crc="428623122" seo="true" mt="1475262559273" redirect="true"/>
     <file name="professional.html" crc="4000001604" seo="true" mt="1475262584998" redirect="true"/>
