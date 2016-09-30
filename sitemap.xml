@@ -73,18 +73,6 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://zoozlerdev.us/tablet/what-you-get.html"/>
   </url>
   <url>
-    <loc>http://zoozlerdev.us/images/heart.png</loc>
-    <lastmod>2016-09-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://zoozlerdev.us/images/web%20mac%20dashboard380x221.png</loc>
-    <lastmod>2016-09-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://zoozlerdev.us/images/pasted-svg-900241x2303.svg</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -146,12 +134,6 @@
   </url>
   <url>
     <loc>http://zoozlerdev.us/images/ph%20persp%20site%20inspection375x281.png</loc>
-    <lastmod>2016-09-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://zoozlerdev.us/images/web%20mac%20dashboard435x252.png</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -229,25 +211,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://zoozlerdev.us/images/web%20front%20mac%20dashboard398x246.png</loc>
-    <lastmod>2016-09-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://zoozlerdev.us/images/test3appscreen.png</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://zoozlerdev.us/images/pasted-svg-111571x2198.svg</loc>
+    <loc>http://zoozlerdev.us/images/web%20front%20mac%20dashboard750x463.png</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://zoozlerdev.us/images/web%20mac%20dashboard376x223.png</loc>
+    <loc>http://zoozlerdev.us/images/s7%20site%20inspection.png</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -259,13 +235,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://zoozlerdev.us/images/web%20mac%20dashboard.png</loc>
+    <loc>http://zoozlerdev.us/images/pasted-svg-111571x2198.svg</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://zoozlerdev.us/images/pasted-svg-22599x22.svg</loc>
+    <loc>http://zoozlerdev.us/images/heart.png</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -320,12 +296,6 @@
   </url>
   <url>
     <loc>http://zoozlerdev.us/images/ph%20persp%20site%20inspection.png</loc>
-    <lastmod>2016-09-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://zoozlerdev.us/images/web%20mac%20dashboard719x417.png</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -421,6 +391,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://zoozlerdev.us/images/web%20mac%20dashboard368x218.png</loc>
+    <lastmod>2016-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://zoozlerdev.us/images/web%20mac%20dashboard393x228.png</loc>
+    <lastmod>2016-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://zoozlerdev.us/images/web%20front%20mac%20dashboard398x245.png</loc>
+    <lastmod>2016-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://zoozlerdev.us/images/web%20mac%20dashboard718x417.png</loc>
+    <lastmod>2016-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://zoozlerdev.us/images/web%20phone%20view%20image_markup.png</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -457,19 +451,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://zoozlerdev.us/images/web%20mac%20dashboard.png</loc>
+    <lastmod>2016-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://zoozlerdev.us/images/test3appscreen365x302.png</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://zoozlerdev.us/images/web%20front%20mac%20dashboard750x463.png</loc>
-    <lastmod>2016-09-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://zoozlerdev.us/images/s7%20site%20inspection.png</loc>
+    <loc>http://zoozlerdev.us/images/pasted-svg-22599x22.svg</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -91,24 +91,6 @@ $form = array(
 			'errors' => array(
 			)
 		),
-		'custom_U26047' => array(
-			'order' => 5,
-			'type' => 'radiogroup',
-			'label' => 'Company Size',
-			'required' => true,
-			'optionItems' => array(
-				'0-4 employees',
-				'5-9 employees',
-				'10-19 employees',
-				'20-99 employees',
-				'100-499 employees',
-				'500+ employees'
-			),
-			'errors' => array(
-				'required' => 'Field \'Company Size\' is required.',
-				'format' => 'Field \'Company Size\' has an invalid value.'
-			)
-		),
 		'custom_U26015' => array(
 			'order' => 6,
 			'type' => 'radiogroup',
@@ -139,6 +121,24 @@ $form = array(
 			'errors' => array(
 				'required' => 'Field \'Number of Supervisors\' is required.',
 				'format' => 'Field \'Number of Supervisors\' has an invalid value.'
+			)
+		),
+		'custom_U26047' => array(
+			'order' => 5,
+			'type' => 'radiogroup',
+			'label' => 'Company Size',
+			'required' => true,
+			'optionItems' => array(
+				'0-4 employees',
+				'5-9 employees',
+				'10-19 employees',
+				'20-99 employees',
+				'100-499 employees',
+				'500+ employees'
+			),
+			'errors' => array(
+				'required' => 'Field \'Company Size\' is required.',
+				'format' => 'Field \'Company Size\' has an invalid value.'
 			)
 		)
 	)
