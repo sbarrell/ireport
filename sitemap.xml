@@ -235,6 +235,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://zoozlerdev.us/images/test3appscreen.png</loc>
+    <lastmod>2016-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://zoozlerdev.us/images/pasted-svg-111571x2198.svg</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -242,12 +248,6 @@
   </url>
   <url>
     <loc>http://zoozlerdev.us/images/web%20mac%20dashboard376x223.png</loc>
-    <lastmod>2016-09-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://zoozlerdev.us/images/s7%20site%20inspection.png</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -415,6 +415,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://zoozlerdev.us/images/web%20phone%20accident%20conditions244x447.png</loc>
+    <lastmod>2016-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://zoozlerdev.us/images/web%20phone%20view%20image_markup.png</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -451,12 +457,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://zoozlerdev.us/images/test3appscreen.png</loc>
-    <lastmod>2016-09-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://zoozlerdev.us/images/test3appscreen365x302.png</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -464,6 +464,12 @@
   </url>
   <url>
     <loc>http://zoozlerdev.us/images/web%20front%20mac%20dashboard750x463.png</loc>
+    <lastmod>2016-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://zoozlerdev.us/images/s7%20site%20inspection.png</loc>
     <lastmod>2016-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
