@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="zoozlerdev.us" resolutions="1x" timestamp="1475783940977">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="zoozlerdev.us" resolutions="1x" timestamp="1475953264807">
   <folder name="css">
     <file name="site_global.css" crc="3807529963"/>
-    <file name="master_a-master.css" crc="483052545" ref="professional:what-you-get:enterprise:index:privacy-policy:test-drive:pricing:what-we-do:basic"/>
+    <file name="master_a-master.css" crc="428893107" ref="professional:what-you-get:enterprise:index:privacy-policy:test-drive:pricing:what-we-do:basic"/>
     <file name="professional.css" crc="3892917191" ref="professional"/>
     <file name="iefonts_professional.css" crc="320176854" ref="professional"/>
     <file name="what-you-get.css" crc="3761488254" ref="what-you-get"/>
     <file name="iefonts_what-you-get.css" crc="437400954" ref="what-you-get"/>
     <file name="enterprise.css" crc="3855398491" ref="enterprise"/>
     <file name="iefonts_enterprise.css" crc="3835172519" ref="enterprise"/>
-    <file name="index.css" crc="3900259303" ref="index"/>
+    <file name="index.css" crc="3963476450" ref="index"/>
     <file name="iefonts_index.css" crc="3920215823" ref="index"/>
     <file name="privacy-policy.css" crc="4211910112" ref="privacy-policy"/>
     <file name="iefonts_privacy-policy.css" crc="235720152" ref="privacy-policy"/>
@@ -34,9 +34,9 @@
     <file name="musewpslideshow.js" crc="4265225696" ref="phone>index:tablet>index:what-we-do:index"/>
     <file name="jquery.museoverlay.js" crc="4075157096" ref="phone>index:tablet>index:what-we-do:index"/>
     <file name="touchswipe.js" crc="474750357" ref="phone>index:tablet>index:what-we-do:index"/>
-    <file name="form_check.php" crc="121412709" ref="phone>index:index"/>
-    <file name="form_throttle.php" crc="4268640971" ref="phone>index:index"/>
-    <file name="form_process.php" crc="444429785" ref="phone>index:index"/>
+    <file name="form_check.php" crc="121412709" ref="phone>index"/>
+    <file name="form_throttle.php" crc="4268640971" ref="phone>index"/>
+    <file name="form_process.php" crc="444429785" ref="phone>index"/>
     <file name="form-u13033.php" crc="3952031103" ref="phone>index"/>
     <file name="require.js" crc="4108833657" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
     <file name="jquery.scrolleffects.js" crc="511146689" ref="what-you-get:professional"/>
@@ -51,7 +51,7 @@
     <file name="form-u8318.php" crc="439742587" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="43606514" ref="phone>index:index"/>
+    <file name="favicon.ico" crc="3977845330" ref="phone>index"/>
     <file name="backgroundarch2.png" crc="4102332174" ref="phone>index:tablet>index:index"/>
     <file name="test3appscreen365x302.png" crc="255944865" seo="true" ref="phone>index"/>
     <file name="ireportlogo2_hamburger menu copy-u14358-3-fr.png" crc="205895793" ref="phone>index:tablet>index:tablet>what-we-do"/>
@@ -59,43 +59,43 @@
     <file name="ireportlogo2_hamburger close copy-u14358-3-a-fr.png" crc="4113067163" ref="phone>index:tablet>index:tablet>what-we-do"/>
     <file name="ireportlogo.png" crc="4269058698" seo="true" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
     <file name="pasted-svg-272.svg" crc="3828488256" seo="true" ref="phone>index:tablet>index:index"/>
-    <file name="pasted svg 272_poster_.png" crc="4244782279" ref="phone>index:index"/>
+    <file name="pasted svg 272_poster_.png" crc="4244782279" ref="phone>index"/>
     <file name="pasted-svg-2276x249.svg" crc="4215281330" seo="true" ref="phone>index:tablet>index:index"/>
-    <file name="pasted svg 2276x249_poster_.png" crc="4249896598" ref="phone>index:index"/>
+    <file name="pasted svg 2276x249_poster_.png" crc="4249896598" ref="phone>index"/>
     <file name="pasted-svg-366121x286.svg" crc="439893393" seo="true" ref="phone>index:tablet>index"/>
     <file name="pasted svg 366121x286_poster_.png" crc="4000137115" ref="phone>index"/>
     <file name="web front mac dashboard380x234.png" crc="4224328897" seo="true" ref="phone>index"/>
-    <file name="backgroundarch2-u26265-fr.png" crc="431469012" ref="phone>index:tablet>index"/>
+    <file name="backgroundarch2-u26265-fr.png" crc="431469012" ref="phone>index:tablet>index:index"/>
     <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
     <file name="web phone view image_markup.png" crc="3949252696" seo="true" ref="phone>index:tablet>index:index"/>
     <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
     <file name="pasted-svg-111571x2198.svg" crc="327394192" seo="true" ref="phone>index:tablet>index:index"/>
-    <file name="pasted svg 111571x2198_poster_.png" crc="155006860" ref="phone>index:index"/>
-    <file name="abstract-honeycomb-pattern-u26264-fr.png" crc="180736441" ref="phone>index:tablet>index"/>
+    <file name="pasted svg 111571x2198_poster_.png" crc="3821738708" ref="phone>index"/>
+    <file name="abstract-honeycomb-pattern-u26264-fr.png" crc="180736441" ref="phone>index:tablet>index:index"/>
     <file name="iosblack.png" crc="3903117405" ref="phone>index:tablet>index:index"/>
-    <file name="iosblack-u26270-r-fr.png" crc="33799238" ref="phone>index:tablet>index"/>
+    <file name="iosblack-u26270-r-fr.png" crc="33799238" ref="phone>index:tablet>index:index"/>
     <file name="androidblack.png" crc="3985367814" ref="phone>index:tablet>index:index"/>
-    <file name="androidblack-u26268-r-fr.png" crc="3845347716" ref="phone>index:tablet>index"/>
+    <file name="androidblack-u26268-r-fr.png" crc="3845347716" ref="phone>index:tablet>index:index"/>
     <file name="u13034-17.png" crc="4202159846" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy"/>
     <file name="u13034-17-r.png" crc="3908079579" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy"/>
     <file name="u13034-17-m.png" crc="154020781" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy"/>
     <file name="u13034-17-fs.png" crc="30999358" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy"/>
-    <file name="footerelements-03-u13047-fr.png" crc="3883199178" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do"/>
-    <file name="footerelements-03-u13047-r-fr.png" crc="7037353" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do"/>
-    <file name="footerelements-04-u13044-fr.png" crc="274641275" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do"/>
-    <file name="footerelements-04-u13044-r-fr.png" crc="3917297347" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do"/>
-    <file name="footerelements-05-u13045-fr.png" crc="4212971054" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do"/>
-    <file name="footerelements-05-u13045-r-fr.png" crc="3858076053" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do"/>
-    <file name="footerelements-06-u13056-fr.png" crc="312210186" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do"/>
-    <file name="footerelements-06-u13056-r-fr.png" crc="500573843" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do"/>
-    <file name="footerelements-08-u13055-fr.png" crc="258803951" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do"/>
-    <file name="footerelements-08-u13055-r-fr.png" crc="364428217" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do"/>
-    <file name="footerelements-13-u13054-fr.png" crc="120913665" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do"/>
-    <file name="footerelements-13-u13054-r-fr.png" crc="3985181519" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do"/>
-    <file name="footerelements-10-u13050-fr.png" crc="4033182398" ref="phone>index:what-you-get"/>
-    <file name="footerelements-10-u13050-r-fr.png" crc="4213885494" ref="phone>index:what-you-get"/>
-    <file name="footerelements-11-u13051-fr.png" crc="3818431768" ref="phone>index:what-you-get"/>
-    <file name="footerelements-11-u13051-r-fr.png" crc="213211371" ref="phone>index:what-you-get"/>
+    <file name="footerelements-03-u13047-fr.png" crc="3883199178" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do:index"/>
+    <file name="footerelements-03-u13047-r-fr.png" crc="7037353" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do:index"/>
+    <file name="footerelements-04-u13044-fr.png" crc="274641275" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do:index"/>
+    <file name="footerelements-04-u13044-r-fr.png" crc="3917297347" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do:index"/>
+    <file name="footerelements-05-u13045-fr.png" crc="4212971054" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do:index"/>
+    <file name="footerelements-05-u13045-r-fr.png" crc="3858076053" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do:index"/>
+    <file name="footerelements-06-u13056-fr.png" crc="312210186" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do:index"/>
+    <file name="footerelements-06-u13056-r-fr.png" crc="500573843" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do:index"/>
+    <file name="footerelements-08-u13055-fr.png" crc="258803951" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do:index"/>
+    <file name="footerelements-08-u13055-r-fr.png" crc="364428217" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do:index"/>
+    <file name="footerelements-13-u13054-fr.png" crc="120913665" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do:index"/>
+    <file name="footerelements-13-u13054-r-fr.png" crc="3985181519" ref="phone>index:tablet>index:what-you-get:tablet>what-we-do:index"/>
+    <file name="footerelements-10-u13050-fr.png" crc="4033182398" ref="phone>index:what-you-get:index"/>
+    <file name="footerelements-10-u13050-r-fr.png" crc="4213885494" ref="phone>index:what-you-get:index"/>
+    <file name="footerelements-11-u13051-fr.png" crc="3818431768" ref="phone>index:what-you-get:index"/>
+    <file name="footerelements-11-u13051-r-fr.png" crc="213211371" ref="phone>index:what-you-get:index"/>
     <file name="heart.png" crc="117585526" seo="true" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
     <file name="pasted-svg-900241x2303.svg" crc="3914481564" seo="true" ref="phone>what-we-do"/>
     <file name="pasted svg 900241x2303_poster_.png" crc="400823914" ref="phone>what-we-do"/>
@@ -153,9 +153,9 @@
     <file name="web phone accident conditions.png" crc="133922539" seo="true" ref="tablet>index:index"/>
     <file name="web mac dashboard.png" crc="3944498992" seo="true" ref="tablet>index:what-you-get:what-we-do:index"/>
     <file name="pasted-svg-22599x22.svg" crc="297771095" seo="true" ref="tablet>index:tablet>basic:tablet>professional:tablet>enterprise:pricing:basic:professional:enterprise:index"/>
-    <file name="pasted svg 22599x22_poster_.png" crc="244894223" ref="tablet>index:tablet>professional:index"/>
+    <file name="pasted svg 22599x22_poster_.png" crc="244894223" ref="tablet>index:tablet>professional"/>
     <file name="pasted-svg-22599x222.svg" crc="3873840699" seo="true" ref="tablet>index:tablet>basic:tablet>professional:pricing:basic:professional:index"/>
-    <file name="pasted svg 22599x22_poster_2.png" crc="3868478835" ref="tablet>index:tablet>professional:index"/>
+    <file name="pasted svg 22599x22_poster_2.png" crc="3868478835" ref="tablet>index:tablet>professional"/>
     <file name="u13226-17.png" crc="4202159846" ref="tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy"/>
     <file name="u13226-17-r.png" crc="3908079579" ref="tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy"/>
     <file name="u13226-17-m.png" crc="154020781" ref="tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy"/>
@@ -248,10 +248,10 @@
     <file name="footerelements-08-u13247-r-fr.png" crc="364428217" ref="test-drive"/>
     <file name="footerelements-13-u13246-fr.png" crc="120913665" ref="test-drive"/>
     <file name="footerelements-13-u13246-r-fr.png" crc="3985181519" ref="test-drive"/>
-    <file name="footerelements-10-u13934-fr.png" crc="4033182398" ref="test-drive:index"/>
-    <file name="footerelements-10-u13934-r-fr.png" crc="4213885494" ref="test-drive:index"/>
-    <file name="footerelements-11-u13933-fr.png" crc="3818431768" ref="test-drive:index"/>
-    <file name="footerelements-11-u13933-r-fr.png" crc="213211371" ref="test-drive:index"/>
+    <file name="footerelements-10-u13934-fr.png" crc="4033182398" ref="test-drive"/>
+    <file name="footerelements-10-u13934-r-fr.png" crc="4213885494" ref="test-drive"/>
+    <file name="footerelements-11-u13933-fr.png" crc="3818431768" ref="test-drive"/>
+    <file name="footerelements-11-u13933-r-fr.png" crc="213211371" ref="test-drive"/>
     <file name="web phone accident conditions244x447.png" crc="428825547" seo="true" ref="phone>index"/>
     <file name="web mac dashboard368x218.png" crc="4232819483" seo="true" ref="phone>index"/>
     <file name="web mac dashboard393x228.png" crc="440111804" seo="true" ref="phone>what-we-do"/>
@@ -261,26 +261,10 @@
     <file name="takephotos-crop-u28986.png" crc="393678990" ref="tablet>what-you-get"/>
     <file name="web mac dashboard718x417.png" crc="4098868498" seo="true" ref="tablet>what-you-get"/>
     <file name="ph persp site inspection313x235.png" crc="3981241907" seo="true" ref="phone>what-you-get"/>
-    <file name="backgroundarch2-u17429-fr.png" crc="431469012" ref="index"/>
-    <file name="abstract-honeycomb-pattern-u18161-fr.png" crc="180736441" ref="index"/>
-    <file name="iosblack-u8331-r-fr.png" crc="33799238" ref="index"/>
-    <file name="androidblack-u8332-r-fr.png" crc="3845347716" ref="index"/>
-    <file name="footerelements-03-u13928-fr.png" crc="3883199178" ref="index"/>
-    <file name="footerelements-03-u13928-r-fr.png" crc="7037353" ref="index"/>
-    <file name="footerelements-04-u13931-fr.png" crc="274641275" ref="index"/>
-    <file name="footerelements-04-u13931-r-fr.png" crc="3917297347" ref="index"/>
-    <file name="footerelements-05-u13930-fr.png" crc="4212971054" ref="index"/>
-    <file name="footerelements-05-u13930-r-fr.png" crc="3858076053" ref="index"/>
-    <file name="footerelements-06-u13939-fr.png" crc="312210186" ref="index"/>
-    <file name="footerelements-06-u13939-r-fr.png" crc="500573843" ref="index"/>
-    <file name="footerelements-08-u13938-fr.png" crc="258803951" ref="index"/>
-    <file name="footerelements-08-u13938-r-fr.png" crc="364428217" ref="index"/>
-    <file name="footerelements-13-u13941-fr.png" crc="120913665" ref="index"/>
-    <file name="footerelements-13-u13941-r-fr.png" crc="3985181519" ref="index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="master_a-master.css" crc="207302767" ref="tablet>test-drive:tablet>what-you-get:tablet>what-we-do:tablet>basic:tablet>pricing:tablet>enterprise:tablet>professional:tablet>privacy-policy:tablet>index"/>
+      <file name="master_a-master.css" crc="370741526" ref="tablet>test-drive:tablet>what-you-get:tablet>what-we-do:tablet>basic:tablet>pricing:tablet>enterprise:tablet>professional:tablet>privacy-policy:tablet>index"/>
       <file name="test-drive.css" crc="4033415337" ref="tablet>test-drive"/>
       <file name="iefonts_test-drive.css" crc="109556824" ref="tablet>test-drive"/>
       <file name="what-you-get.css" crc="127119638" ref="tablet>what-you-get"/>
@@ -297,10 +281,10 @@
       <file name="iefonts_professional.css" crc="4259209284" ref="tablet>professional"/>
       <file name="privacy-policy.css" crc="437618301" ref="tablet>privacy-policy"/>
       <file name="iefonts_privacy-policy.css" crc="27747553" ref="tablet>privacy-policy"/>
-      <file name="index.css" crc="263633606" ref="tablet>index"/>
+      <file name="index.css" crc="408382250" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="197268019" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="399969118" seo="true" mt="1475260672745" redirect="true"/>
+    <file name="index.html" crc="4166942624" seo="true" mt="1475953135854" redirect="true"/>
     <file name="what-we-do.html" crc="4283600568" seo="true" mt="1475265112164" redirect="true"/>
     <file name="what-you-get.html" crc="4034939203" seo="true" mt="1475265156132" redirect="true"/>
     <file name="pricing.html" crc="462641028" seo="true" mt="1475259207359" redirect="true"/>
@@ -312,7 +296,7 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="3893349400" ref="phone>pricing:phone>enterprise:phone>privacy-policy:phone>test-drive:phone>professional:phone>index:phone>what-you-get:phone>what-we-do:phone>basic"/>
+      <file name="master_a-master.css" crc="364409446" ref="phone>pricing:phone>enterprise:phone>privacy-policy:phone>test-drive:phone>professional:phone>index:phone>what-you-get:phone>what-we-do:phone>basic"/>
       <file name="pricing.css" crc="147836947" ref="phone>pricing"/>
       <file name="iefonts_pricing.css" crc="3817143417" ref="phone>pricing"/>
       <file name="enterprise.css" crc="204986913" ref="phone>enterprise"/>
@@ -323,7 +307,7 @@
       <file name="iefonts_test-drive.css" crc="200610428" ref="phone>test-drive"/>
       <file name="professional.css" crc="44622413" ref="phone>professional"/>
       <file name="iefonts_professional.css" crc="155457731" ref="phone>professional"/>
-      <file name="index.css" crc="4213683655" ref="phone>index"/>
+      <file name="index.css" crc="4227532018" ref="phone>index"/>
       <file name="iefonts_index.css" crc="253873074" ref="phone>index"/>
       <file name="what-you-get.css" crc="3838267602" ref="phone>what-you-get"/>
       <file name="iefonts_what-you-get.css" crc="187502635" ref="phone>what-you-get"/>
@@ -332,7 +316,7 @@
       <file name="basic.css" crc="98804725" ref="phone>basic"/>
       <file name="iefonts_basic.css" crc="3851800664" ref="phone>basic"/>
     </folder>
-    <file name="index.html" crc="281747376" seo="true" mt="1475263433947" redirect="true"/>
+    <file name="index.html" crc="516034726" seo="true" mt="1475953185015" redirect="true"/>
     <file name="what-we-do.html" crc="3916689365" seo="true" mt="1475265462734" redirect="true"/>
     <file name="what-you-get.html" crc="4148442483" seo="true" mt="1475265345981" redirect="true"/>
     <file name="pricing.html" crc="436237194" seo="true" mt="1475263433947" redirect="true"/>
@@ -350,5 +334,5 @@
   <file name="professional.html" crc="3972324509" seo="true" mt="1475252689472" redirect="true"/>
   <file name="enterprise.html" crc="501381791" seo="true" mt="1475252739308" redirect="true"/>
   <file name="privacy-policy.html" crc="4199421413" seo="true" mt="1475241456646" redirect="true"/>
-  <file name="index.html" crc="503247341" seo="true" mt="1475783720759" redirect="true"/>
+  <file name="index.html" crc="209152117" seo="true" mt="1475952794956" redirect="true"/>
 </manifest>
