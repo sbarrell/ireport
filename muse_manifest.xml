@@ -1,36 +1,39 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ireportsource.com" resolutions="1x" timestamp="1476903190631">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ireportsource.com" resolutions="1x" timestamp="1477667854022">
   <folder name="css">
-    <file name="site_global.css" crc="4015266970"/>
-    <file name="master_a-master.css" crc="435521599" ref="basic:what-we-do:pricing:what-you-get:test-drive:index:privacy-policy:professional:enterprise"/>
-    <file name="basic.css" crc="137344278" ref="basic"/>
+    <file name="site_global.css" crc="333868015"/>
+    <file name="master_a-master.css" crc="128559402" ref="basic:what-we-do:pricing:what-you-get:test-drive:index:privacy-policy:professional:enterprise:login:blog"/>
+    <file name="basic.css" crc="173491297" ref="basic"/>
     <file name="iefonts_basic.css" crc="3842205847" ref="basic"/>
-    <file name="what-we-do.css" crc="282804562" ref="what-we-do"/>
+    <file name="what-we-do.css" crc="454703720" ref="what-we-do"/>
     <file name="iefonts_what-we-do.css" crc="4195819169" ref="what-we-do"/>
-    <file name="pricing.css" crc="3896652753" ref="pricing"/>
+    <file name="pricing.css" crc="405176271" ref="pricing"/>
     <file name="iefonts_pricing.css" crc="179278554" ref="pricing"/>
-    <file name="what-you-get.css" crc="11344454" ref="what-you-get"/>
+    <file name="what-you-get.css" crc="403635111" ref="what-you-get"/>
     <file name="iefonts_what-you-get.css" crc="214017282" ref="what-you-get"/>
-    <file name="test-drive.css" crc="3804596662" ref="test-drive"/>
+    <file name="test-drive.css" crc="4085070496" ref="test-drive"/>
     <file name="iefonts_test-drive.css" crc="460384735" ref="test-drive"/>
-    <file name="index.css" crc="4028344494" ref="index"/>
+    <file name="index.css" crc="53992455" ref="index"/>
     <file name="iefonts_index.css" crc="368266162" ref="index"/>
     <file name="privacy-policy.css" crc="9557381" ref="privacy-policy"/>
     <file name="iefonts_privacy-policy.css" crc="3914801514" ref="privacy-policy"/>
-    <file name="professional.css" crc="3958619800" ref="professional"/>
+    <file name="professional.css" crc="4279558884" ref="professional"/>
     <file name="iefonts_professional.css" crc="118015172" ref="professional"/>
-    <file name="enterprise.css" crc="4062828956" ref="enterprise"/>
+    <file name="enterprise.css" crc="3944569076" ref="enterprise"/>
     <file name="iefonts_enterprise.css" crc="4035268789" ref="enterprise"/>
+    <file name="login.css" crc="339395258" ref="login"/>
+    <file name="blog.css" crc="3925322444" ref="blog"/>
+    <file name="iefonts_blog.css" crc="20878452" ref="blog"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
-    <file name="museutils.js" crc="3851988764" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
-    <file name="museconfig.js" crc="169177150" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index:phone>login:tablet>login:blog:login"/>
+    <file name="museutils.js" crc="3851988764" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index:phone>login:tablet>login:blog:login"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index:phone>login:tablet>login:blog:login"/>
+    <file name="museconfig.js" crc="169177150" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index:phone>login:tablet>login:blog:login"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="phone>index:phone>what-you-get:tablet>index:tablet>what-you-get:tablet>basic:what-you-get:what-we-do:basic:index"/>
     <file name="pie.js" crc="3831537696" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>test-drive:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:index"/>
-    <file name="webpro.js" crc="4067903014" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
-    <file name="musewpdisclosure.js" crc="338211507" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:index"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
+    <file name="webpro.js" crc="4067903014" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index:phone>login:tablet>login:blog:login"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:index:phone>login:tablet>login"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index:phone>login:tablet>login:blog:login"/>
     <file name="musewpslideshow.js" crc="4265225696" ref="phone>index:tablet>index:what-we-do:index"/>
     <file name="jquery.museoverlay.js" crc="4075157096" ref="phone>index:tablet>index:what-we-do:index"/>
     <file name="touchswipe.js" crc="474750357" ref="phone>index:tablet>index:what-we-do:index"/>
@@ -38,16 +41,16 @@
     <file name="form_throttle.php" crc="4268640971" ref="phone>index"/>
     <file name="form_process.php" crc="444429785" ref="phone>index"/>
     <file name="form-u13033.php" crc="3952031103" ref="phone>index"/>
-    <file name="require.js" crc="4108833657" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
-    <file name="form-u14715.php" crc="3810828746" ref="phone>test-drive"/>
+    <file name="require.js" crc="4108833657" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index:phone>login:tablet>login:blog:login"/>
+    <file name="form-u14715.php" crc="4287173515" ref="phone>test-drive"/>
     <file name="form-u13225.php" crc="9670425" ref="tablet>index"/>
-    <file name="form-u26005.php" crc="351733406" ref="tablet>test-drive"/>
-    <file name="jquery.musemenu.js" crc="4150485998" ref="what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
+    <file name="form-u26005.php" crc="59030827" ref="tablet>test-drive"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index:blog:login"/>
     <file name="form-u13918.php" crc="89847875" ref="what-you-get"/>
     <file name="form-u13945.php" crc="4057631830" ref="what-you-get"/>
     <file name="jquery.scrolleffects.js" crc="511146689" ref="what-you-get:professional"/>
-    <file name="html5shiv.js" crc="4241844378" ref="what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
-    <file name="form-u3960.php" crc="3983389519" ref="test-drive"/>
+    <file name="html5shiv.js" crc="4241844378" ref="what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index:blog:login"/>
+    <file name="form-u3960.php" crc="4121091263" ref="test-drive"/>
     <file name="form-u8318.php" crc="3864629276" ref="index"/>
   </folder>
   <folder name="images">
@@ -56,7 +59,7 @@
     <file name="ireportlogo2_hamburger menu copy-u14358-3-fr.png" crc="205895793" ref="phone>index:tablet>index"/>
     <file name="ireportlogo2_hamburger menu copy.png" crc="3783029857" ref="phone>index:tablet>index"/>
     <file name="ireportlogo2_hamburger close copy-u14358-3-a-fr.png" crc="4113067163" ref="phone>index:tablet>index"/>
-    <file name="ireportlogo.png" crc="4269058698" seo="true" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
+    <file name="ireportlogo.png" crc="4269058698" seo="true" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index:phone>login:tablet>login:blog:login"/>
     <file name="test3appscreen365x302.png" crc="255944865" seo="true" ref="phone>index"/>
     <file name="pasted-svg-272.svg" crc="3828488256" seo="true" ref="phone>index:tablet>index:index"/>
     <file name="pasted svg 272_poster_.png" crc="4244782279" ref="phone>index"/>
@@ -64,7 +67,7 @@
     <file name="pasted svg 2276x249_poster_.png" crc="4249896598" ref="phone>index"/>
     <file name="pasted-svg-366121x286.svg" crc="439893393" seo="true" ref="phone>index:tablet>index"/>
     <file name="pasted svg 366121x286_poster_.png" crc="4000137115" ref="phone>index"/>
-    <file name="web front mac dashboard380x234.png" crc="4224328897" seo="true" ref="phone>index"/>
+    <file name="web front mac dashboard380x234.png" crc="3810781790" seo="true" ref="phone>index"/>
     <file name="backgroundarch2-u26265-fr.png" crc="431469012" ref="phone>index:tablet>index:index"/>
     <file name="s7 site inspection.png" crc="3961866596" seo="true" ref="phone>index:tablet>index:index"/>
     <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
@@ -79,10 +82,10 @@
     <file name="iosblack-u26270-r-fr.png" crc="33799238" ref="phone>index:tablet>index:index"/>
     <file name="androidblack.png" crc="3985367814" ref="phone>index:tablet>index:index"/>
     <file name="androidblack-u26268-r-fr.png" crc="3845347716" ref="phone>index:tablet>index:index"/>
-    <file name="u13034-17.png" crc="4202159846" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy"/>
-    <file name="u13034-17-r.png" crc="3908079579" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy"/>
-    <file name="u13034-17-m.png" crc="154020781" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy"/>
-    <file name="u13034-17-fs.png" crc="30999358" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy"/>
+    <file name="u13034-17.png" crc="4202159846" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:phone>login"/>
+    <file name="u13034-17-r.png" crc="3908079579" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:phone>login"/>
+    <file name="u13034-17-m.png" crc="154020781" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:phone>login"/>
+    <file name="u13034-17-fs.png" crc="30999358" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:phone>login"/>
     <file name="footerelements-03-u13047-fr.png" crc="3883199178" ref="phone>index:tablet>index:what-you-get"/>
     <file name="footerelements-03-u13047-r-fr.png" crc="7037353" ref="phone>index:tablet>index:what-you-get"/>
     <file name="footerelements-04-u13044-fr.png" crc="274641275" ref="phone>index:tablet>index:what-you-get"/>
@@ -99,7 +102,7 @@
     <file name="footerelements-10-u13050-r-fr.png" crc="4213885494" ref="phone>index:what-you-get"/>
     <file name="footerelements-11-u13051-fr.png" crc="3818431768" ref="phone>index:what-you-get"/>
     <file name="footerelements-11-u13051-r-fr.png" crc="213211371" ref="phone>index:what-you-get"/>
-    <file name="heart.png" crc="117585526" seo="true" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
+    <file name="heart.png" crc="117585526" seo="true" ref="phone>index:phone>what-we-do:phone>what-you-get:phone>pricing:phone>basic:phone>professional:phone>enterprise:phone>test-drive:phone>privacy-policy:tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index:phone>login:tablet>login:blog:login"/>
     <file name="web mac dashboard393x228.png" crc="440111804" seo="true" ref="phone>what-we-do"/>
     <file name="pasted-svg-900241x2303.svg" crc="3914481564" seo="true" ref="phone>what-we-do"/>
     <file name="pasted svg 900241x2303_poster_.png" crc="400823914" ref="phone>what-we-do"/>
@@ -149,23 +152,23 @@
     <file name="pasted svg 134234x363_poster_.png" crc="3808932269" ref="phone>what-you-get"/>
     <file name="ph persp site inspection367x276.png" crc="4093694677" seo="true" ref="phone>basic"/>
     <file name="web propackage page236x506.png" crc="483192914" seo="true" ref="phone>professional"/>
-    <file name="web front mac dashboard398x245.png" crc="339009685" seo="true" ref="phone>enterprise"/>
+    <file name="web front mac dashboard398x245.png" crc="320836027" seo="true" ref="phone>enterprise"/>
     <file name="u14768-17.png" crc="3758907694" ref="phone>test-drive"/>
     <file name="u14768-17-r.png" crc="508608957" ref="phone>test-drive"/>
     <file name="u14768-17-m.png" crc="3793988025" ref="phone>test-drive"/>
     <file name="u14768-17-fs.png" crc="354301880" ref="phone>test-drive"/>
     <file name="test3appscreen.png" crc="164922847" seo="true" ref="tablet>index:index"/>
-    <file name="web front mac dashboard750x463.png" crc="365805013" seo="true" ref="tablet>index"/>
+    <file name="web front mac dashboard750x463.png" crc="3782919126" seo="true" ref="tablet>index"/>
     <file name="web phone accident conditions.png" crc="133922539" seo="true" ref="tablet>index:index"/>
     <file name="web mac dashboard.png" crc="3944498992" seo="true" ref="tablet>index:what-you-get:what-we-do:index"/>
     <file name="pasted-svg-22599x22.svg" crc="297771095" seo="true" ref="tablet>index:tablet>basic:tablet>professional:tablet>enterprise:pricing:basic:professional:enterprise:index"/>
     <file name="pasted svg 22599x22_poster_.png" crc="244894223" ref="tablet>index"/>
     <file name="pasted-svg-22599x222.svg" crc="3873840699" seo="true" ref="tablet>index:tablet>basic:tablet>professional:pricing:basic:professional:index"/>
     <file name="pasted svg 22599x22_poster_2.png" crc="3868478835" ref="tablet>index"/>
-    <file name="u13226-17.png" crc="4202159846" ref="tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy"/>
-    <file name="u13226-17-r.png" crc="3908079579" ref="tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy"/>
-    <file name="u13226-17-m.png" crc="154020781" ref="tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy"/>
-    <file name="u13226-17-fs.png" crc="30999358" ref="tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy"/>
+    <file name="u13226-17.png" crc="4202159846" ref="tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:tablet>login"/>
+    <file name="u13226-17-r.png" crc="3908079579" ref="tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:tablet>login"/>
+    <file name="u13226-17-m.png" crc="154020781" ref="tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:tablet>login"/>
+    <file name="u13226-17-fs.png" crc="30999358" ref="tablet>index:tablet>what-we-do:tablet>what-you-get:tablet>pricing:tablet>basic:tablet>professional:tablet>enterprise:tablet>test-drive:tablet>privacy-policy:tablet>login"/>
     <file name="footerelements-10-u13242-fr.png" crc="274981368" ref="tablet>index"/>
     <file name="footerelements-10-u13242-r-fr.png" crc="122069837" ref="tablet>index"/>
     <file name="footerelements-11-u13243-fr.png" crc="4224465139" ref="tablet>index"/>
@@ -203,7 +206,7 @@
     <file name="iosgreen.png" crc="419324852" ref="tablet>basic:basic"/>
     <file name="androidblack-u24900-fr.png" crc="498684598" ref="tablet>basic:basic"/>
     <file name="androidgreen.png" crc="3797211247" ref="tablet>basic:basic"/>
-    <file name="web front mac dashboard664x410.png" crc="4067607347" seo="true" ref="tablet>enterprise"/>
+    <file name="web front mac dashboard664x410.png" crc="4090620594" seo="true" ref="tablet>enterprise"/>
     <file name="u26084-17.png" crc="3758907694" ref="tablet>test-drive"/>
     <file name="u26084-17-r.png" crc="508608957" ref="tablet>test-drive"/>
     <file name="u26084-17-m.png" crc="3793988025" ref="tablet>test-drive"/>
@@ -211,14 +214,14 @@
     <file name="takephotos.png" crc="4222516825" ref="what-you-get"/>
     <file name="web phone helpful tips crop-u19374.png" crc="516914847" ref="what-you-get"/>
     <file name="web osha-u19442.png" crc="119051945" ref="what-you-get"/>
-    <file name="u13926-17.png" crc="3774436192" ref="what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
-    <file name="u13926-17-r.png" crc="4015121252" ref="what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
-    <file name="u13926-17-m.png" crc="372942387" ref="what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
-    <file name="u13926-17-fs.png" crc="146980310" ref="what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
-    <file name="u13960-17.png" crc="483132883" ref="what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
-    <file name="u13960-17-r.png" crc="3829334808" ref="what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
-    <file name="u13960-17-m.png" crc="443982195" ref="what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
-    <file name="u13960-17-fs.png" crc="3947467962" ref="what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index"/>
+    <file name="u13926-17.png" crc="3774436192" ref="what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index:blog:login"/>
+    <file name="u13926-17-r.png" crc="4015121252" ref="what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index:blog:login"/>
+    <file name="u13926-17-m.png" crc="372942387" ref="what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index:blog:login"/>
+    <file name="u13926-17-fs.png" crc="146980310" ref="what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index:blog:login"/>
+    <file name="u13960-17.png" crc="483132883" ref="what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index:blog:login"/>
+    <file name="u13960-17-r.png" crc="3829334808" ref="what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index:blog:login"/>
+    <file name="u13960-17-m.png" crc="443982195" ref="what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index:blog:login"/>
+    <file name="u13960-17-fs.png" crc="3947467962" ref="what-you-get:test-drive:what-we-do:pricing:basic:professional:enterprise:privacy-policy:index:blog:login"/>
     <file name="u4002-17.png" crc="3758907694" ref="test-drive"/>
     <file name="u4002-17-r.png" crc="508608957" ref="test-drive"/>
     <file name="u4002-17-m.png" crc="3793988025" ref="test-drive"/>
@@ -237,7 +240,7 @@
     <file name="pasted-svg-195x272.svg" crc="3946205149" seo="true" ref="what-we-do"/>
     <file name="pasted svg 195x272_poster_.png" crc="496563798" ref="what-we-do"/>
     <file name="web propackage page.png" crc="3762322209" seo="true" ref="professional"/>
-    <file name="web front mac dashboard.png" crc="4062908705" seo="true" ref="enterprise:index"/>
+    <file name="web front mac dashboard.png" crc="4190630968" seo="true" ref="enterprise:index"/>
     <file name="u8325-17.png" crc="3795429223" ref="index"/>
     <file name="u8325-17-r.png" crc="487224466" ref="index"/>
     <file name="u8325-17-m.png" crc="4092646597" ref="index"/>
@@ -245,78 +248,85 @@
     <file name="contact_gray-04.png" crc="528223389" ref="index"/>
     <file name="pasted-svg-349397x286.svg" crc="96534627" seo="true" ref="index"/>
     <file name="pasted svg 349397x286_poster_.png" crc="4247589827" ref="index"/>
+    <file name="black-and-white-abstract-architectural-detail-u29172-fr.png" crc="514193066" ref="phone>login:tablet>login:login"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="master_a-master.css" crc="353666814" ref="tablet>privacy-policy:tablet>professional:tablet>test-drive:tablet>index:tablet>basic:tablet>enterprise:tablet>what-we-do:tablet>pricing:tablet>what-you-get"/>
-      <file name="privacy-policy.css" crc="437618301" ref="tablet>privacy-policy"/>
+      <file name="master_a-master.css" crc="4061494126" ref="tablet>privacy-policy:tablet>professional:tablet>test-drive:tablet>index:tablet>basic:tablet>enterprise:tablet>what-we-do:tablet>pricing:tablet>what-you-get:tablet>login"/>
+      <file name="privacy-policy.css" crc="3877641075" ref="tablet>privacy-policy"/>
       <file name="iefonts_privacy-policy.css" crc="27747553" ref="tablet>privacy-policy"/>
-      <file name="professional.css" crc="213124959" ref="tablet>professional"/>
+      <file name="professional.css" crc="4077133565" ref="tablet>professional"/>
       <file name="iefonts_professional.css" crc="4259209284" ref="tablet>professional"/>
-      <file name="test-drive.css" crc="3831265325" ref="tablet>test-drive"/>
+      <file name="test-drive.css" crc="4082133895" ref="tablet>test-drive"/>
       <file name="iefonts_test-drive.css" crc="109556824" ref="tablet>test-drive"/>
-      <file name="index.css" crc="3810496150" ref="tablet>index"/>
+      <file name="index.css" crc="264440432" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="197268019" ref="tablet>index"/>
-      <file name="basic.css" crc="3845404227" ref="tablet>basic"/>
+      <file name="basic.css" crc="4103719187" ref="tablet>basic"/>
       <file name="iefonts_basic.css" crc="4070122570" ref="tablet>basic"/>
-      <file name="enterprise.css" crc="515896797" ref="tablet>enterprise"/>
+      <file name="enterprise.css" crc="338250273" ref="tablet>enterprise"/>
       <file name="iefonts_enterprise.css" crc="439876432" ref="tablet>enterprise"/>
-      <file name="what-we-do.css" crc="253796084" ref="tablet>what-we-do"/>
+      <file name="what-we-do.css" crc="258347993" ref="tablet>what-we-do"/>
       <file name="iefonts_what-we-do.css" crc="4071707969" ref="tablet>what-we-do"/>
-      <file name="pricing.css" crc="55399695" ref="tablet>pricing"/>
+      <file name="pricing.css" crc="3937833161" ref="tablet>pricing"/>
       <file name="iefonts_pricing.css" crc="4018970579" ref="tablet>pricing"/>
-      <file name="what-you-get.css" crc="4276538118" ref="tablet>what-you-get"/>
+      <file name="what-you-get.css" crc="137294371" ref="tablet>what-you-get"/>
       <file name="iefonts_what-you-get.css" crc="330978504" ref="tablet>what-you-get"/>
+      <file name="login.css" crc="4069550507" ref="tablet>login"/>
     </folder>
-    <file name="index.html" crc="3929207141" seo="true" mt="1476721073711" redirect="true"/>
-    <file name="what-we-do.html" crc="499689476" seo="true" mt="1476721081623" redirect="true"/>
-    <file name="what-you-get.html" crc="166971493" seo="true" mt="1476721089973" redirect="true"/>
-    <file name="pricing.html" crc="49411" seo="true" mt="1475259207359" redirect="true"/>
-    <file name="basic.html" crc="251035306" seo="true" mt="1476721112402" redirect="true"/>
-    <file name="professional.html" crc="352143814" seo="true" mt="1476721119320" redirect="true"/>
-    <file name="enterprise.html" crc="3887573408" seo="true" mt="1476721133573" redirect="true"/>
-    <file name="test-drive.html" crc="157799102" seo="true" mt="1476721143829" redirect="true"/>
-    <file name="privacy-policy.html" crc="4038599820" seo="true" mt="1476721157536" redirect="true"/>
+    <file name="index.html" crc="3839498332" seo="true" mt="1477667583850" redirect="true"/>
+    <file name="what-we-do.html" crc="74727796" seo="true" mt="1477667583850" redirect="true"/>
+    <file name="what-you-get.html" crc="281167614" seo="true" mt="1477667583850" redirect="true"/>
+    <file name="pricing.html" crc="440368838" seo="true" mt="1477667583850" redirect="true"/>
+    <file name="basic.html" crc="4235114453" seo="true" mt="1477667583850" redirect="true"/>
+    <file name="professional.html" crc="340641268" seo="true" mt="1477667583850" redirect="true"/>
+    <file name="enterprise.html" crc="248707845" seo="true" mt="1477667583850" redirect="true"/>
+    <file name="test-drive.html" crc="3761605697" seo="true" mt="1477667583850" redirect="true"/>
+    <file name="privacy-policy.html" crc="286386214" seo="true" mt="1477667583850" redirect="true"/>
+    <file name="login.html" crc="4252488979" seo="true" mt="1477667795002" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="41736100" ref="phone>privacy-policy:phone>index:phone>basic:phone>test-drive:phone>professional:phone>what-we-do:phone>pricing:phone>what-you-get:phone>enterprise"/>
-      <file name="privacy-policy.css" crc="4245659293" ref="phone>privacy-policy"/>
+      <file name="master_a-master.css" crc="103437422" ref="phone>privacy-policy:phone>index:phone>basic:phone>test-drive:phone>professional:phone>what-we-do:phone>pricing:phone>what-you-get:phone>enterprise:phone>login"/>
+      <file name="privacy-policy.css" crc="4288135332" ref="phone>privacy-policy"/>
       <file name="iefonts_privacy-policy.css" crc="3967978191" ref="phone>privacy-policy"/>
-      <file name="index.css" crc="4243615127" ref="phone>index"/>
+      <file name="index.css" crc="138899821" ref="phone>index"/>
       <file name="iefonts_index.css" crc="253873074" ref="phone>index"/>
-      <file name="basic.css" crc="98804725" ref="phone>basic"/>
+      <file name="basic.css" crc="86523353" ref="phone>basic"/>
       <file name="iefonts_basic.css" crc="3851800664" ref="phone>basic"/>
-      <file name="test-drive.css" crc="4066622573" ref="phone>test-drive"/>
+      <file name="test-drive.css" crc="4246110977" ref="phone>test-drive"/>
       <file name="iefonts_test-drive.css" crc="200610428" ref="phone>test-drive"/>
-      <file name="professional.css" crc="44622413" ref="phone>professional"/>
+      <file name="professional.css" crc="187572822" ref="phone>professional"/>
       <file name="iefonts_professional.css" crc="155457731" ref="phone>professional"/>
-      <file name="what-we-do.css" crc="4249835079" ref="phone>what-we-do"/>
+      <file name="what-we-do.css" crc="3878778989" ref="phone>what-we-do"/>
       <file name="iefonts_what-we-do.css" crc="311102915" ref="phone>what-we-do"/>
-      <file name="pricing.css" crc="519230632" ref="phone>pricing"/>
+      <file name="pricing.css" crc="382970441" ref="phone>pricing"/>
       <file name="iefonts_pricing.css" crc="3817143417" ref="phone>pricing"/>
-      <file name="what-you-get.css" crc="3762724312" ref="phone>what-you-get"/>
+      <file name="what-you-get.css" crc="88778401" ref="phone>what-you-get"/>
       <file name="iefonts_what-you-get.css" crc="187502635" ref="phone>what-you-get"/>
-      <file name="enterprise.css" crc="204986913" ref="phone>enterprise"/>
+      <file name="enterprise.css" crc="161792273" ref="phone>enterprise"/>
       <file name="iefonts_enterprise.css" crc="4217811336" ref="phone>enterprise"/>
+      <file name="login.css" crc="370085772" ref="phone>login"/>
     </folder>
-    <file name="index.html" crc="189826853" seo="true" mt="1476721424192" redirect="true"/>
-    <file name="what-we-do.html" crc="4091658534" seo="true" mt="1476721434217" redirect="true"/>
-    <file name="what-you-get.html" crc="417218006" seo="true" mt="1476721443459" redirect="true"/>
-    <file name="pricing.html" crc="3881468544" seo="true" mt="1475263433947" redirect="true"/>
-    <file name="basic.html" crc="414139606" seo="true" mt="1475263433947" redirect="true"/>
-    <file name="professional.html" crc="3856120937" seo="true" mt="1476721451773" redirect="true"/>
-    <file name="enterprise.html" crc="469202783" seo="true" mt="1476721458201" redirect="true"/>
-    <file name="test-drive.html" crc="477753890" seo="true" mt="1476721465911" redirect="true"/>
-    <file name="privacy-policy.html" crc="174733241" seo="true" mt="1476721472736" redirect="true"/>
+    <file name="index.html" crc="350897781" seo="true" mt="1477667734261" redirect="true"/>
+    <file name="what-we-do.html" crc="426550760" seo="true" mt="1477667734261" redirect="true"/>
+    <file name="what-you-get.html" crc="53172560" seo="true" mt="1477667734261" redirect="true"/>
+    <file name="pricing.html" crc="4105396205" seo="true" mt="1477667734261" redirect="true"/>
+    <file name="basic.html" crc="3977123142" seo="true" mt="1477667734261" redirect="true"/>
+    <file name="professional.html" crc="4108624041" seo="true" mt="1477667734261" redirect="true"/>
+    <file name="enterprise.html" crc="287805234" seo="true" mt="1477667734261" redirect="true"/>
+    <file name="test-drive.html" crc="4286955144" seo="true" mt="1477667734261" redirect="true"/>
+    <file name="privacy-policy.html" crc="3845823913" seo="true" mt="1477667734261" redirect="true"/>
+    <file name="login.html" crc="3963793835" seo="true" mt="1477667795004" redirect="true"/>
   </folder>
-  <file name="what-you-get.html" crc="467281696" seo="true" mt="1476903031478" redirect="true"/>
-  <file name="test-drive.html" crc="321385513" seo="true" mt="1476903031478" redirect="true"/>
-  <file name="what-we-do.html" crc="103983250" seo="true" mt="1476903031478" redirect="true"/>
-  <file name="pricing.html" crc="53002060" seo="true" mt="1476903031478" redirect="true"/>
-  <file name="basic.html" crc="42956647" seo="true" mt="1476903031478" redirect="true"/>
-  <file name="professional.html" crc="41475072" seo="true" mt="1476903031478" redirect="true"/>
-  <file name="enterprise.html" crc="3812339965" seo="true" mt="1476903031478" redirect="true"/>
-  <file name="privacy-policy.html" crc="299577657" seo="true" mt="1476903031478" redirect="true"/>
-  <file name="index.html" crc="3993753584" seo="true" mt="1476903031478" redirect="true"/>
+  <file name="what-you-get.html" crc="374432635" seo="true" mt="1477667057224" redirect="true"/>
+  <file name="test-drive.html" crc="4025115152" seo="true" mt="1477667057224" redirect="true"/>
+  <file name="what-we-do.html" crc="4006243520" seo="true" mt="1477667057224" redirect="true"/>
+  <file name="pricing.html" crc="206842439" seo="true" mt="1477667057224" redirect="true"/>
+  <file name="basic.html" crc="26728523" seo="true" mt="1477667057224" redirect="true"/>
+  <file name="professional.html" crc="163848072" seo="true" mt="1477667057224" redirect="true"/>
+  <file name="enterprise.html" crc="4101868335" seo="true" mt="1477667057224" redirect="true"/>
+  <file name="privacy-policy.html" crc="112815116" seo="true" mt="1477667057224" redirect="true"/>
+  <file name="index.html" crc="258836962" seo="true" mt="1477667057224" redirect="true"/>
+  <file name="blog.html" crc="4109410871" seo="true" mt="1477667057224" redirect="true"/>
+  <file name="login.html" crc="4011966324" seo="true" mt="1477667795001" redirect="true"/>
 </manifest>

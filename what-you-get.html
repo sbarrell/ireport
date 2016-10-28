@@ -23,9 +23,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="shortcut icon" href="images/favicon.ico?crc=3977845330"/>
   <title>what you get</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3822313975"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=435521599"/>
-  <link rel="stylesheet" type="text/css" href="css/what-you-get.css?crc=11344454" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=333868015"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=128559402"/>
+  <link rel="stylesheet" type="text/css" href="css/what-you-get.css?crc=403635111" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_what-you-get.css?crc=214017282"/>
@@ -79,11 +79,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <a class="nonblock nontext MenuItem MenuItemWithSubMenu rounded-corners clearfix colelem" id="u13494" href="test-drive.html" data-href="page:U4080"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u13496-4"><!-- content --><p>test drive</p></div></a>
       </div>
       <div class="MenuItemContainer clearfix grpelem" id="u13484"><!-- vertical box -->
-       <div class="MenuItem MenuItemWithSubMenu clearfix colelem" id="u13487"><!-- horizontal box -->
-        <div class="MenuItemLabel NoWrap clearfix grpelem" id="u13490-4"><!-- content -->
-         <p>login</p>
-        </div>
-       </div>
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u13487" href="login.html" data-href="page:U29092"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u13490-4"><!-- content --><p>login</p></div></a>
       </div>
      </nav>
     </div>
@@ -531,7 +527,7 @@ Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.initWidget('#widgetu13918', ['#bp_infinity'], function(elem) { return new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu13918 */
 Muse.Utils.initWidget('#widgetu13945', ['#bp_infinity'], function(elem) { return new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu13945 */
-$('#u3753').registerPositionScrollEffect([{"in":[-Infinity,-2.1],"speed":[0,1]},{"in":[-2.1,Infinity],"speed":[0,2]}]);/* scroll effect */
+$('#u3753').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,-2.1]},{"speed":[0,2],"in":[-2.1,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
