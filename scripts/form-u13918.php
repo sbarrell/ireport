@@ -25,8 +25,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'subscribe@ireportsource.com',
-		'to' => 'subscribe@ireportsource.com'
+		'from' => 'sbarrell@zoozler.com',
+		'to' => 'sbarrell@zoozler.com'
 	),
 	'fields' => array(
 		'Email' => array(

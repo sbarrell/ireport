@@ -91,20 +91,20 @@ $form = array(
 			'errors' => array(
 			)
 		),
-		'custom_U4003' => array(
-			'order' => 7,
+		'custom_U4015' => array(
+			'order' => 6,
 			'type' => 'radiogroup',
-			'label' => 'Number of Supervisors',
+			'label' => 'Number of Locations',
 			'required' => true,
 			'optionItems' => array(
-				'1-5 (per location)',
-				'5-10 (per location)',
-				'10-29 (per location)',
-				'30+ (per location)'
+				'1',
+				'2-5',
+				'5-10',
+				'10+'
 			),
 			'errors' => array(
-				'required' => 'Field \'Number of Supervisors\' is required.',
-				'format' => 'Field \'Number of Supervisors\' has an invalid value.'
+				'required' => 'Field \'Number of Locations\' is required.',
+				'format' => 'Field \'Number of Locations\' has an invalid value.'
 			)
 		),
 		'custom_U3962' => array(
@@ -125,20 +125,20 @@ $form = array(
 				'format' => 'Field \'Company Size\' has an invalid value.'
 			)
 		),
-		'custom_U4015' => array(
-			'order' => 6,
+		'custom_U4003' => array(
+			'order' => 7,
 			'type' => 'radiogroup',
-			'label' => 'Number of Locations',
+			'label' => 'Number of Supervisors',
 			'required' => true,
 			'optionItems' => array(
-				'1',
-				'2-5',
-				'5-10',
-				'10+'
+				'1-5 (per location)',
+				'5-10 (per location)',
+				'10-29 (per location)',
+				'30+ (per location)'
 			),
 			'errors' => array(
-				'required' => 'Field \'Number of Locations\' is required.',
-				'format' => 'Field \'Number of Locations\' has an invalid value.'
+				'required' => 'Field \'Number of Supervisors\' is required.',
+				'format' => 'Field \'Number of Supervisors\' has an invalid value.'
 			)
 		)
 	)
